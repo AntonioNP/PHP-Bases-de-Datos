@@ -26,6 +26,7 @@ and open the template in the editor.
             <li><a href="082InsertarPeli_BDWiley2.php">082InsertarPeli_BDWiley2.php</a></li>
             <li><a href="09DropRestricciones_BDWiley2.php">09DropRestricciones_BDWiley2.php</a></li>
             <li><a href="10Drop_BDWiley2.php">10Drop_BDWiley2.php</a></li>
+            <li><a href="11.php">11</a></li>
             <li><a href="12MostrarTablasFuncion_BDWiley2.php">12MostrarTablasFuncion_BDWiley2.php</a></li>
         </ul>
     </body>
